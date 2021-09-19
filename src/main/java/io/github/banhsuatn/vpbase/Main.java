@@ -1,4 +1,4 @@
-package com.viracle.vpbase;
+package io.github.banhsuatn.vpbase;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
