@@ -1,0 +1,6 @@
+name: VPBase
+version: '${project.version}'
+main: com.viracle.vpbase.Main
+api-version: 1.17
+authors: [ Viracle ]
+description: Base content for plugin
